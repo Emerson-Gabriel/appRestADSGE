@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestApp</string>
+    <string name="nav_to_post">Nav to post</string>
+</resources>
